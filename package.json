@@ -1,8 +1,8 @@
 {
   "name": "javascript-library",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Example library using Webpack 5 - UMD usable in browser and node environments",
+  "main": "dist/main.js",
   "scripts": {
     "build": "webpack",
     "clean": "rm -rf dist"
